@@ -1,4 +1,4 @@
 supercilious
 ============
 
-silly name generator
+super silly name generator
